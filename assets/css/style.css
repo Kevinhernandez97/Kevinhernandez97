@@ -24,7 +24,6 @@ body {
 }
 
 main {
-  margin: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -33,6 +32,7 @@ main {
 }
 
 .main__container {
+  margin: 20px;
   max-width: 400px;
   min-height: 630px;
   display: flex;
@@ -71,6 +71,6 @@ main {
 
 @media (min-width: 720px) {
   .main__container {
-    padding: 25px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
   }
 }
