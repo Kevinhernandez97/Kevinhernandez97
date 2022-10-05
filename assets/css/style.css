@@ -71,8 +71,6 @@ main {
 
 @media (min-width: 720px) {
   .main__container {
-    width: 400px;
-    height: 630px;
     padding: 25px 15px 15px 15px;
   }
 }
